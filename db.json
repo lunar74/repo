@@ -1,0 +1,28 @@
+{
+  "get-retrieval" : 
+  {
+  "userId": "abef15234-=",
+  "svcId": "temp-123141",
+  "resultCode": "0000",
+  "resultMassage": "정상 처리",
+  "searchNum": 2,
+  "searchPassage": [
+    {
+      "rank": 1,
+      "rankScore": 0.99,
+      "retrievalType": "001",
+      "passageId": "passage-1001",
+      "passageTitle": "대출 상품의 대출 금리 목록",
+      "passageText": "서울 메이트 공무원 대출은 연 대출이자가 4%이고, 쏠편한 시도금고 메이트 공무원 대출은 연 대출이자가 2%이고 쏠편한 서울 메이트 공무원 대출 상품은 연 평균 대출이자가 3%이다."
+    },
+    {
+      "rank": 2,
+      "rankScore": 0.98,
+      "retrievalType": "001",
+      "passageId": "passage-1002",
+      "passageTitle": "상품의 대출 금리 목록",
+      "passageText": "서울 메이트 공무원 대출의 이자는 4%이고, 쏠편한 시도금고 메이트 공무원 대출은 이자가 2%이다, 쏠편한 서울 메이트 공무원 대출 상품은 연 평균 대출이자가 3%이다."
+    }
+  ]
+  }
+}
