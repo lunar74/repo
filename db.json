@@ -99,6 +99,80 @@
   "resultCode": "200",
   "resultMsg": "Retrieval 성공",
   "searchNum": 5,
-  "resultNum": 5
+  "resultNum": 5,
+  "searchPassage": [
+    {
+      "searchQuery": "지니TV 소개해줘",
+      "rank": 1,
+      "rankScore": 0.99,
+      "totalSearchType": "2",
+      "retrievalType": "001",
+      "docId": "KT_Genie_TV_LiveAD_소개자료",
+      "docTitle": "KT Genie TV LiveAD_소개자료",
+      "docUrl": "KT Genie TV LiveAD_소개자료.pdf",
+      "pageNum": "6",
+      "passageTitle": "KT Genie TV LiveAD_소개자료",
+      "passage": "05 고객맞춤형 타기팅 제공\n지역별/오디언스/채널/시간대별 맞춤형 타기팅 광고 송출\n\n지역/오디언스 타기팅\n시군구 단위 지역 타기팅",
+      "existImg": "N"
+    },
+    {
+      "searchQuery": "지니TV 소개해줘",
+      "rank": 2,
+      "rankScore": 0.98,
+      "totalSearchType": "2",
+      "retrievalType": "001",
+      "docId": "KT_Genie_TV_LiveAD_소개자료",
+      "docTitle": "KT Genie TV LiveAD_소개자료",
+      "docUrl": "KT Genie TV LiveAD_소개자료.pdf",
+      "pageNum": "7",
+      "passageTitle": "KT Genie TV LiveAD_소개자료",
+      "passage": "06 실시간 리포트/모니터링 영상 지원\n객관화된 리포트 및 모니터링 기능 제공",
+      "existImg": "N"
+    }
+  ,
+    {
+      "searchQuery": "지니TV 소개해줘",
+      "rank": 3,
+      "rankScore": 0.97,
+      "totalSearchType": "2",
+      "retrievalType": "001",
+      "docId": "KT_Genie_TV_LiveAD_소개자료",
+      "docTitle": "KT Genie TV LiveAD_소개자료",
+      "docUrl": "KT Genie TV LiveAD_소개자료.pdf",
+      "pageNum": "8",
+      "passageTitle": "KT Genie TV LiveAD_소개자료",
+      "passage": "07 LiveAD+ 상품 및 정책\n런칭 프로모션\n'전국 1,150만 신규상품' 첫 진행 광고주에게 추가 보너스율 30% 특별 제공 (월 1천만원 이상 청약시 가능)\n단가 정책\n|구분|상품명|노출채널|제안단가|제안단가|제안단가|제안단가|제안단가|운영시간|\\n\n",
+      "existImg": "N"
+    }
+  ,
+    {
+      "searchQuery": "지니TV 소개해줘",
+      "rank": 4,
+      "rankScore": 0.96,
+      "totalSearchType": "2",
+      "retrievalType": "001",
+      "docId": "KT_Genie_TV_LiveAD_소개자료",
+      "docTitle": "KT Genie TV LiveAD_소개자료",
+      "docUrl": "KT Genie TV LiveAD_소개자료.pdf",
+      "pageNum": "8",
+      "passageTitle": "KT Genie TV LiveAD_소개자료",
+      "passage": "|스페셜 패키지|1st Slot|큐신호 첫번째 슬롯에 고정송출되는 상품|3,000만원/7일|3,000만원/7일|3,000만원/7일|3,000만원/7일|3,000만원/7일|24시간|\\n\n※정책외기타초수소재는별도협의必\n", "existImg": "N"
+    }
+  ,
+    {
+      "searchQuery": "지니TV 소개해줘",
+      "rank": 5,
+      "rankScore": 0.95,
+      "totalSearchType": "2",
+      "retrievalType": "001",
+      "docId": "KT_Genie_TV_LiveAD_소개자료",
+      "docTitle": "KT Genie TV LiveAD_소개자료",
+      "docUrl": "KT Genie TV LiveAD_소개자료.pdf",
+      "pageNum": "9",
+      "passageTitle": "KT Genie TV LiveAD_소개자료",
+      "passage": "07 LiveAD+ 상품 및 정책\n|구분|상품명|노출채널|제안단가|제안단가|제안단가|제안단가|제안단가|운영시간|",
+      "existImg": "N"
+    }
+  ]
 }
 }
