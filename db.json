@@ -14,8 +14,7 @@
       "value": 306,
       "relation": "eq"
     },
-    "max_score": 0.99,
-    "hits": null
+    "max_score": 0.99
   }
 },
 "get-retrieval":
