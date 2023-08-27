@@ -8,13 +8,6 @@
     "successful": 1,
     "skipped": 0,
     "failed": 0
-  },
-  "hits": {
-    "total": {
-      "value": 306,
-      "relation": "eq"
-    },
-    "max_score": 0.99
   }
 },
 "get-retrieval":
