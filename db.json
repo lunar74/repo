@@ -99,7 +99,6 @@
   "resultCode": "200",
   "resultMsg": "Retrieval 성공",
   "searchNum": 5,
-  "resultNum": 5,
-  "searchPassage": []
+  "resultNum": 5
 }
 }
