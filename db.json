@@ -8,6 +8,90 @@
     "successful": 1,
     "skipped": 0,
     "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 306,
+      "relation": "eq"
+    },
+    "max_score": 0.99,
+    "hits": [
+      {
+        "_index": "kt_enterprise",
+        "_id": "abef15234-=",
+        "_score": 0.99,
+        "_source": {
+          "docId": "KT_Genie_TV_LiveAD_소개자료",
+          "docTitle": "KT Genie TV LiveAD_소개자료",
+          "docUrl": "KT Genie TV LiveAD_소개자료.pdf",
+          "pageNum": "6",
+          "passageId": "KT_Genie_TV_LiveAD_소개자료-6",
+          "passageTitle": "KT Genie TV LiveAD_소개자료",
+          "passage": "▶05 고객맞춤형 타기팅 제공\n지역별/오디언스/채널/시간대별 맞춤형 타기팅 광고 송출",
+          "existImg": "N"
+        }
+      },
+      {
+        "_index": "kt_enterprise",
+        "_id": "abef15234-=",
+        "_score": 0.98,
+        "_source": {
+          "docId": "KT_Genie_TV_LiveAD_소개자료",
+          "docTitle": "KT Genie TV LiveAD_소개자료",
+          "docUrl": "KT Genie TV LiveAD_소개자료.pdf",
+          "pageNum": "7",
+          "passageId": "KT_Genie_TV_LiveAD_소개자료-7",
+          "passageTitle": "KT Genie TV LiveAD_소개자료",
+          "passage": "06 실시간 리포트/모니터링 영상 지원\n객관화된 리포트 및 모니터링 기능 제공",
+          "existImg": "N"
+        }
+      },
+      {
+        "_index": "kt_enterprise",
+        "_id": "abef15234-=",
+        "_score": 0.97,
+        "_source": {
+          "docId": "KT_Genie_TV_LiveAD_소개자료",
+          "docTitle": "KT Genie TV LiveAD_소개자료",
+          "docUrl": "KT Genie TV LiveAD_소개자료.pdf",
+          "pageNum": "8",
+          "passageId": "KT_Genie_TV_LiveAD_소개자료-8",
+          "passageTitle": "KT Genie TV LiveAD_소개자료",
+          "passage": "07 LiveAD+ 상품 및 정책\n런칭 프로모션\n'전국 1,150만 신규상품' 첫 진행 광고주에게 추가 보너스율 30% 특별 제공 (월 1천만원 이상 청약시 가능)\n단가 정책\n|구분|상품명|노출채널|제안단가|제안단가|제안단가|제안단가|제안단가|운영시간|\\n\n",
+          "existImg": "N"
+        }
+      },
+      {
+        "_index": "kt_enterprise",
+        "_id": "abef15234-=",
+        "_score": 0.96,
+        "_source": {
+          "docId": "KT_Genie_TV_LiveAD_소개자료",
+          "docTitle": "KT Genie TV LiveAD_소개자료",
+          "docUrl": "KT Genie TV LiveAD_소개자료.pdf",
+          "pageNum": "8",
+          "passageId": "KT_Genie_TV_LiveAD_소개자료-9",
+          "passageTitle": "KT Genie TV LiveAD_소개자료",
+          "passage": "|스페셜 패키지|1st Slot|큐신호 첫번째 슬롯에 고정송출되는 상품|3,000만원/7일|3,000만원/7일|3,000만원/7일|3,000만원/7일|3,000만원/7일|24시간|\\n\n※정책외기타초수소재는별도협의必\n",
+          "existImg": "N"
+        }
+      },
+      {
+        "_index": "kt_enterprise",
+        "_id": "abef15234-=",
+        "_score": 0.95,
+        "_source": {
+          "docId": "KT_Genie_TV_LiveAD_소개자료",
+          "docTitle": "KT Genie TV LiveAD_소개자료",
+          "docUrl": "KT Genie TV LiveAD_소개자료.pdf",
+          "pageNum": "9",
+          "passageId": "KT_Genie_TV_LiveAD_소개자료-10",
+          "passageTitle": "KT Genie TV LiveAD_소개자료",
+          "passage": "07 LiveAD+ 상품 및 정책\n|구분|상품명|노출채널|제안단가|제안단가|제안단가|제안단가|제안단가|운영시간|\\n\n|소상공인 패키지|베이직|전체 93개 채널 대상|5|7|10|15|20|06:00~25:59|\\n\n",
+          "existImg": "N"
+        }
+      }
+    ]
   }
 },
 "get-retrieval":
