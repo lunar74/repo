@@ -14,12 +14,12 @@
       "value": 306,
       "relation": "eq"
     },
-    "max_score": 0.99,
+    "max_score": 2.99,
     "hits": [
       {
         "_index": "kt_enterprise",
         "_id": "abef15234-=",
-        "_score": 0.99,
+        "_score": 2.99,
         "_source": {
           "docId": "KT_Genie_TV_LiveAD_소개자료",
           "docTitle": "KT Genie TV LiveAD_소개자료",
@@ -34,7 +34,7 @@
       {
         "_index": "kt_enterprise",
         "_id": "abef15234-=",
-        "_score": 0.98,
+        "_score": 1.98,
         "_source": {
           "docId": "KT_Genie_TV_LiveAD_소개자료",
           "docTitle": "KT Genie TV LiveAD_소개자료",
@@ -49,7 +49,7 @@
       {
         "_index": "kt_enterprise",
         "_id": "abef15234-=",
-        "_score": 0.97,
+        "_score": 1.97,
         "_source": {
           "docId": "KT_Genie_TV_LiveAD_소개자료",
           "docTitle": "KT Genie TV LiveAD_소개자료",
@@ -64,7 +64,7 @@
       {
         "_index": "kt_enterprise",
         "_id": "abef15234-=",
-        "_score": 0.96,
+        "_score": 1.96,
         "_source": {
           "docId": "KT_Genie_TV_LiveAD_소개자료",
           "docTitle": "KT Genie TV LiveAD_소개자료",
@@ -79,7 +79,7 @@
       {
         "_index": "kt_enterprise",
         "_id": "abef15234-=",
-        "_score": 0.95,
+        "_score": 1.95,
         "_source": {
           "docId": "KT_Genie_TV_LiveAD_소개자료",
           "docTitle": "KT Genie TV LiveAD_소개자료",
@@ -104,8 +104,8 @@
     {
       "searchQuery": "지니TV 소개해줘",
       "rank": 1,
-      "rankScore": 0.99,
-      "totalSearchType": "2",
+      "rankscore": 0.99,
+      "totalsearchType": "2",
       "retrievalType": "001",
       "docId": "KT_Genie_TV_LiveAD_소개자료",
       "docTitle": "KT Genie TV LiveAD_소개자료",
@@ -118,8 +118,8 @@
     {
       "searchQuery": "지니TV 소개해줘",
       "rank": 2,
-      "rankScore": 0.98,
-      "totalSearchType": "2",
+      "rankscore": 0.98,
+      "totalsearchType": "2",
       "retrievalType": "001",
       "docId": "KT_Genie_TV_LiveAD_소개자료",
       "docTitle": "KT Genie TV LiveAD_소개자료",
@@ -133,8 +133,8 @@
     {
       "searchQuery": "지니TV 소개해줘",
       "rank": 3,
-      "rankScore": 0.97,
-      "totalSearchType": "2",
+      "rankscore": 0.97,
+      "totalsearchType": "2",
       "retrievalType": "001",
       "docId": "KT_Genie_TV_LiveAD_소개자료",
       "docTitle": "KT Genie TV LiveAD_소개자료",
@@ -148,8 +148,8 @@
     {
       "searchQuery": "지니TV 소개해줘",
       "rank": 4,
-      "rankScore": 0.96,
-      "totalSearchType": "2",
+      "rankscore": 0.96,
+      "totalsearchType": "2",
       "retrievalType": "001",
       "docId": "KT_Genie_TV_LiveAD_소개자료",
       "docTitle": "KT Genie TV LiveAD_소개자료",
@@ -162,8 +162,8 @@
     {
       "searchQuery": "지니TV 소개해줘",
       "rank": 5,
-      "rankScore": 0.95,
-      "totalSearchType": "2",
+      "rankscore": 0.95,
+      "totalsearchType": "2",
       "retrievalType": "001",
       "docId": "KT_Genie_TV_LiveAD_소개자료",
       "docTitle": "KT Genie TV LiveAD_소개자료",
