@@ -104,7 +104,7 @@
     {
       "searchQuery": "지니TV 소개해줘",
       "rank": 1,
-      "rankscore": 0.99,
+      "rankscore": 0.88,
       "totalsearchType": "2",
       "retrievalType": "001",
       "docId": "KT_Genie_TV_LiveAD_소개자료",
@@ -118,7 +118,7 @@
     {
       "searchQuery": "지니TV 소개해줘",
       "rank": 2,
-      "rankscore": 0.88,
+      "rankscore": 0.77,
       "totalsearchType": "2",
       "retrievalType": "001",
       "docId": "KT_Genie_TV_LiveAD_소개자료",
@@ -133,7 +133,7 @@
     {
       "searchQuery": "지니TV 소개해줘",
       "rank": 3,
-      "rankscore": 0.77,
+      "rankscore": 0.99,
       "totalsearchType": "2",
       "retrievalType": "001",
       "docId": "KT_Genie_TV_LiveAD_소개자료",
